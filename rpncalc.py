@@ -56,11 +56,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-# enter the equation: 5 8 2 15 * sin * + 2 45 tan + /
-# stack: ['15', '2', '8', '5']
-# stack: ['30.0', '8', '5']
-# stack: ['0.5', '8', '5']
-# stack: ['4.0', '5',]
-# stack: ['45', '2', '9.0']
-# stack: ['1.0', '2', '9.0']
-# stack: ['3.0', '9.0']
+
