@@ -1,4 +1,5 @@
 # Reverse-polish-notation-calculator
+Open terminal in rpncal.py file and run the file to enter a test input like the example i have below in my test input:
 
 # test input:
 
